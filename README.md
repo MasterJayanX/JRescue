@@ -8,7 +8,7 @@ JRescue está disponible para computadores de 32 y 64 bits.
 
 Link a la carpeta de Google Drive: https://drive.google.com/drive/folders/1g2BrpitXo0GvasboSkEhXFU7dm9BTGta?usp=sharing
 
-## Software incluido
+## Softwares incluidos
 
 Algunas de las aplicaciones incluidas en JRescue son:
 
@@ -20,6 +20,7 @@ Algunas de las aplicaciones incluidas en JRescue son:
 - TestDisk (se ejecuta desde la terminal)
 - HardInfo
 - Clonezilla (se ejecuta desde la terminal)
+- ClamAV/Clamtk
 
 ## Diferencias entre las versiones de 32 y 64 bits
 
