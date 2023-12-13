@@ -6,7 +6,7 @@ JRescue es una imagen ISO que incluye una variedad de herramientas para hacerle 
 
 JRescue está disponible para equipos de 32 y 64 bits.
 
-Link a la carpeta de Google Drive: https://drive.google.com/drive/folders/1g2BrpitXo0GvasboSkEhXFU7dm9BTGta?usp=sharing
+[Haz clic aquí para acceder a la carpeta de OneDrive](https://1drv.ms/f/s!Ao8LGU9FR01SkPc5EFrHyA7QNx5v0g?e=afE9ZI)
 
 ## Softwares incluidos
 
