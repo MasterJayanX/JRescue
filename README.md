@@ -2,7 +2,7 @@
 
 ## ¿Qué es JRescue?
 
-JRescue es una imagen ISO que incluye una variedad de herramientas para hacerle mantenimiento a un computador que lo requiera, actuando como el sucesor espiritual de Xubuntu Rescue, un proyecto que inicié en el 2021, pero que terminé descontinuando por falta de interés. JRescue se instala en una unidad USB utilizando herramientas como Rufus o balenaEtcher y usa como base la distribución Lubuntu, haciendo uso entonces del ligero entorno de escritorio LXQt.
+JRescue es una imagen ISO que incluye una variedad de herramientas para hacerle mantenimiento a un computador que lo requiera, actuando como el sucesor espiritual de Xubuntu Rescue, un proyecto que inicié en el 2021, pero que terminé descontinuando por falta de interés. JRescue se instala en una unidad USB utilizando herramientas como Rufus o balenaEtcher y usa como base la distribución Lubuntu, aprovechando el entorno de escritorio LXQt, conocido por su ligereza.
 
 JRescue está disponible para equipos de 32 y 64 bits.
 
