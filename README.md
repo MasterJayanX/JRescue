@@ -1,5 +1,5 @@
 # JRescue
-![GitHub release (with filter)](https://img.shields.io/github/v/release/MasterJayanX/JRescue)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/MasterJayanX/JRescue?logo=linux)
 
 ## ¿Qué es JRescue?
 
