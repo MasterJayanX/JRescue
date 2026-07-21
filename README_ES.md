@@ -7,7 +7,7 @@ JRescue es una imagen ISO que incluye una variedad de herramientas para hacerle 
 
 JRescue está disponible para equipos de 32 y 64 bits.
 
-[Haz clic aquí para acceder a la carpeta de OneDrive](https://1drv.ms/f/s!Ao8LGU9FR01SkPc5EFrHyA7QNx5v0g?e=afE9ZI)
+[![Descarga JRescue](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/jrescue/files/latest/download)
 
 ## Softwares incluidos
 
