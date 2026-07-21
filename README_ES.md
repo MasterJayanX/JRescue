@@ -1,5 +1,5 @@
 # JRescue
-![GitHub release (with filter)](https://img.shields.io/github/v/release/MasterJayanX/JRescue?logo=linux)
+[![Download JRescue](https://img.shields.io/sourceforge/dw/jrescue.svg)](https://sourceforge.net/projects/jrescue/files/latest/download)
 
 ## ¿Qué es JRescue?
 
@@ -12,33 +12,22 @@ JRescue está disponible para equipos de 32 y 64 bits.
 ## Softwares incluidos
 
 Algunas de las aplicaciones incluidas en JRescue son:
-
 - Firefox
 - boot-repair
 - GParted
 - Grub Customizer
 - Disk Usage Analyzer (Baobab)
-- TestDisk (se ejecuta desde la terminal)
+- TestDisk (se ejecuta en la terminal)
 - HardInfo
-- Clonezilla (se ejecuta desde la terminal)
+- Clonezilla (se ejecuta en la terminal)
 - Rescuezilla
 - ClamAV/Clamtk
-
-## Diferencias entre las versiones de 32 y 64 bits
-
-La principal diferencia entre estas dos versiones es que la versión de 64 bits está basada en Debian 12 (desde 2025) y utiliza el kernel 6.8, mientras que la versión de 32 bits está basada en Lubuntu 18.04 y utiliza el kernel 5.4. Además, algunas de las aplicaciones mencionadas anteriormente podrían no estar presentes en la versión de 32 bits o podrían ser versiones antiguas.
+- QDirStat
+- KDE ISO Image Writer
+- WoeUSB-ng
 
 ## Requisitos de hardware
 
-### 64 bits
-
-- Procesador de 1,5 GHz (se recomienda de 2 núcleos o superior)
+- Procesador de 64-bit y 1,5 GHz (se recomienda de 2 núcleos o superior)
 - 1 GB de RAM (se recomiendan 2 GB)
 - Unidad USB con 4 GB de almacenamiento (se recomiendan 8 GB o 32 GB si se usa Ventoy)
-
-### 32 bits
-
-- Procesador de 700 MHz (se recomienda 1 GHz)
-- 512 MB de RAM (se recomienda 1 GB)
-- Unidad USB con 4 GB de almacenamiento (se recomiendan 8 GB o 32 GB si se usa Ventoy)
-
